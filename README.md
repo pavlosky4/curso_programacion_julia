@@ -48,7 +48,7 @@ https://classroom.github.com/Y/X-xxxxx
 
 Una vez aceptado el repositorio, éste será direccionado a su cuenta de *Github* en su navegador de internet. Para enlazar el repositorio con su computadora, utilice el botón verde *code* arriba a la derecha y use la opción abrir el repositorio en *Github Desktop*:
 
-<img src="./figs/github_open_githubdesktop.png" alt="" width="400"/>
+<img src="./figs/github_open_githubdesktop.png" alt="" width="350"/>
 
 En *Github Desktop* deberá definir el directorio en el cual se guardará el repositorio. Por defecto se creará una nueva carpeta con el nombre del repositorio (o proyecto). A continuación elija la opción clonar:
 
