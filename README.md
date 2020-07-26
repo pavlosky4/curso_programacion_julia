@@ -6,6 +6,8 @@ Este material  corresponde al curso de Introducción a la Programación en Julia
 
 Las notas de clase para el curso se encuentran en el siguiente [link](https://mauriciotejada.com/programacionjulia/).
 
+Adicionalmente, en la carpeta *src* de este repositorio encontrará todos los archivos `jl` y los `notebooks` asociados a la clase.
+
 ## Instalar Julia
 
 Descargue *Julia* desde sitio oficial: 
