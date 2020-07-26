@@ -1,6 +1,6 @@
 # Introducción a la Programación en Julia
 
-## Descripción del Curso
+## Descripción del Curso
 
 Este material  corresponde al curso de Introducción a la Programación en Julia dicado en el Magister de Economía de la Universidad Alberto Hurtado (Santiago, Chile).
 
